@@ -1,13 +1,13 @@
-# 📊 Telecom Customer Churn Analysis
+#  Telecom Customer Churn Analysis
 
-## 📌 Project Overview
+##  Project Overview
 Customer churn is one of the most critical problems faced by telecom companies.  
 This project analyzes **customer churn behavior** to identify patterns and key factors that lead customers to discontinue services.  
 The goal is to help businesses **reduce churn and improve customer retention** using data-driven insights.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze churn trends across different customer segments  
 - Identify high-risk customers likely to churn  
 - Understand the impact of contracts, tenure, and services on churn  
@@ -15,7 +15,7 @@ The goal is to help businesses **reduce churn and improve customer retention** u
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - **Python**
 - **Pandas & NumPy** – Data cleaning & manipulation
 - **Matplotlib & Seaborn** – Data visualization
@@ -23,7 +23,7 @@ The goal is to help businesses **reduce churn and improve customer retention** u
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 - Telecom customer churn dataset (Excel format/kaggel)
 - Features include:
   - Customer demographics
@@ -33,7 +33,7 @@ The goal is to help businesses **reduce churn and improve customer retention** u
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 - Handled missing and blank values (e.g., `TotalCharges`)
 - Converted columns to appropriate data types
 - Removed duplicate customer records
@@ -42,7 +42,7 @@ The goal is to help businesses **reduce churn and improve customer retention** u
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 The following analyses were performed:
 - Overall churn rate
 - Churn distribution by:
@@ -59,7 +59,7 @@ The following analyses were performed:
 
 ---
 
-## 🔑 Key Insights
+##  Key Insights
 - Customers on **month-to-month contracts** churn the most
 - **Low-tenure customers** are at higher churn risk
 - **Senior citizens** show higher churn compared to non-senior customers
@@ -68,7 +68,7 @@ The following analyses were performed:
 
 ---
 
-## 📈 Business Recommendations
+##  Business Recommendations
 - Encourage customers to move to **long-term contracts**
 - Improve onboarding experience for **new customers**
 - Offer bundled services like **tech support & online security**
@@ -77,13 +77,11 @@ The following analyses were performed:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project demonstrates how **exploratory data analysis** can help identify customer churn drivers and support strategic business decisions.  
 The insights gained can be used to **reduce churn, improve customer satisfaction, and increase revenue**.
 
 
-## 👩‍💻 Author
+##  Author
 **Priya Choubey**  
 Aspiring Data Analyst | Python | SQL | Power BI  
-
-📌 *Feel free to connect and explore more projects!*
